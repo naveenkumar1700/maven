@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hello, I'm Naveen!</h1>
+        <p><strong>Profession:</strong> DevOps Engineer</p>
+        <p><strong>Experience:</strong> 3.3+ years in Digital Advertising, DevOps</p>
+        <p><strong>Skills:</strong> Linux, Git, GitHub, Jenkins, Ansible, Docker, AWS, Terraform</p>
+        <p><strong>Interests:</strong> Cinema, Cricket, Social Media</p>
+        <p><strong>Current Goal:</strong> Mastering DevOps & Web Deployment</p>
+    </div>
+</body>
+</html>
